@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Jenkins_Application.Jenkins_Application.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE!
+testApp1(Jenkins_Application.Jenkins_Application.AppTest)  Time elapsed: 0.007 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at Jenkins_Application.Jenkins_Application.AppTest.testApp1(AppTest.java:41)
+
